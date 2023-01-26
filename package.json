@@ -1,0 +1,17 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "my firts app with electron.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "app",
+    "desktop",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
